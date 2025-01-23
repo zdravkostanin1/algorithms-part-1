@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="Starting the new solution to RandomWord">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms, Part I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RandomWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/RandomWord.java" afterDir="false" />
-    </list>
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="RandomWord exercise solution." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +135,7 @@
       <workItem from="1737561316364" duration="74000" />
       <workItem from="1737561416879" duration="19000" />
       <workItem from="1737561898824" duration="1040000" />
-      <workItem from="1737622888809" duration="388000" />
+      <workItem from="1737622888809" duration="853000" />
     </task>
     <task id="LOCAL-00001" summary="Completion of exercise 1 and 2. Started implementation on 3.">
       <option name="closed" value="true" />
@@ -166,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737562926149</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="RandomWord exercise solution.">
+      <option name="closed" value="true" />
+      <created>1737623736497</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737623736497</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -212,6 +215,7 @@
     <MESSAGE value="Completion of exercise 1 and 2. Started implementation on 3." />
     <MESSAGE value="Modifying the HelloGoodbye solution." />
     <MESSAGE value="Starting the new solution to RandomWord" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting the new solution to RandomWord" />
+    <MESSAGE value="RandomWord exercise solution." />
+    <option name="LAST_COMMIT_MESSAGE" value="RandomWord exercise solution." />
   </component>
 </project>
